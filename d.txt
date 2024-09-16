@@ -1,0 +1,2 @@
+This is fourth file to check difference between pull and merge.
+
